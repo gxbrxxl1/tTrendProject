@@ -65,6 +65,3 @@ An AI-powered application for analyzing and predicting trends in smartphone and 
 - Input validation and sanitization
 - CSRF protection
 
-## License
-
-MIT License "# tTrendProject" 
