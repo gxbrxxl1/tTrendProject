@@ -67,4 +67,4 @@ An AI-powered application for analyzing and predicting trends in smartphone and 
 
 ## License
 
-MIT License 
+MIT License "# tTrendProject" 
